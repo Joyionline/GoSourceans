@@ -1,2 +1,2 @@
-# GoSourceans
-A pro. with golang source code analysis
+# GoSourceans.
+Go源码学习(v1.11)
